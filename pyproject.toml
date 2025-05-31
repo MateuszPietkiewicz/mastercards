@@ -22,6 +22,7 @@ dependencies = [
     "mkdocs",
     "pandas>=2.2.3",
     "pip",
+    "pyarrow>=20.0.0",
     "pytest",
     "python-dotenv",
     "ruff",
